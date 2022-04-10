@@ -1,0 +1,6 @@
+<svg viewBox="0 0 2000 1200" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0L2000 0L2000 1200L0 1200" fill="#2c2c2c" fill-rule="evenodd"/>
+<path d="M0 0L2000 0L2000 900L0 900" fill="#9c59d1" fill-rule="evenodd"/>
+<path d="M0 0L2000 0L2000 600L0 600" fill="#fcfcfc" fill-rule="evenodd"/>
+<path d="M0 0L2000 0L2000 300L0 300" fill="#fcf434" fill-rule="evenodd"/>
+</svg>

@@ -1,0 +1,4 @@
+<svg viewBox="0 0 2000 1200" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0L2000 0L2000 1200L0 1200L0 0Z" fill="#ffd800" fill-rule="evenodd"/>
+<path d="M700 600C700 434.315 834.315 300 1000 300C1165.69 300 1300 434.315 1300 600C1300 765.685 1165.69 900 1000 900C834.315 900 700 765.685 700 600Z" fill="none" fill-rule="evenodd" stroke="#7902aa" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="100"/>
+</svg>

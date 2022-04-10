@@ -1,0 +1,8 @@
+<svg viewBox="0 0 2000 1200" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0L2000 0L2000 171.429L0 171.429L0 0Z" fill="#c479a2" fill-rule="evenodd"/>
+<path d="M0 171.429L2000 171.429L2000 342.857L0 342.857L0 171.429Z" fill="#eda5cd" fill-rule="evenodd"/>
+<path d="M0 342.857L2000 342.857L2000 857.143L0 857.143L0 342.857Z" fill="#d5c7e8" fill-rule="evenodd"/>
+<path d="M0 514.286L2000 514.286L2000 685.714L0 685.714L0 514.286Z" fill="#ffffff" fill-rule="evenodd"/>
+<path d="M0 857.143L2000 857.143L2000 1028.57L0 1028.57L0 857.143Z" fill="#9ac7e8" fill-rule="evenodd"/>
+<path d="M0 1028.57L2000 1028.57L2000 1200L0 1200L0 1028.57Z" fill="#6d82d1" fill-rule="evenodd"/>
+</svg>

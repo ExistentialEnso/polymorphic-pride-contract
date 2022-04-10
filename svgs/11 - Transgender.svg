@@ -1,0 +1,5 @@
+<svg viewBox="0 0 2000 1200" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0L2000 0L2000 1200L0 1200L0 0Z" fill="#5bcefa" fill-rule="evenodd"/>
+<path d="M0 240L2000 240L2000 960L0 960L0 240Z" fill="#f5a9b8" fill-rule="evenodd"/>
+<path d="M0 480L2000 480L2000 720L0 720L0 480Z" fill="#ffffff" fill-rule="evenodd"/>
+</svg>
