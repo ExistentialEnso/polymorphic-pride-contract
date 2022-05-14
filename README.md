@@ -25,6 +25,10 @@ The flag designs are as follows, all of which, like all parts of this project, a
 * pansexual
 * transgender
 
+## Notes for Forking
+
+* This uses an older version of ERC721A. Update to the newest version.
+
 ## Project Links
 
 * [Website](https://polymorphicpride.xyz)
